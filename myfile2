@@ -3,3 +3,6 @@ In this I will clone my remote repository into my local machine
 This is my updated second file and it will be pushed to remote repo soon.
 This file is now modified in remote repo and soon it will be pulled to local repo
 This file is now modified and it will be pushed to remote repository. 
+This is updated file in Eclipse IDE
+Now we have to first add this file to staging,then we have to commit this into local repo.
+Then we have to push this file into remote repository.
